@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Adwika Mourya's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -7,6 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+My Favorite things about my CS193 class
+- My very funny Ts instructors :)
+- chill vibes
 
 ```markdown
 Syntax highlighted code block
@@ -17,6 +21,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Here
 
 1. Numbered
 2. List
