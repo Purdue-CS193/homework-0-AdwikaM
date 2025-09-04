@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 My Favorite things about my CS193 class
 - My very funny Ts instructors :)
-- chill vibes
+- chill vibes :)
 
 ```markdown
 Syntax highlighted code block
